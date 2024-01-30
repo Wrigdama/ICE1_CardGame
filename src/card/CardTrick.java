@@ -7,7 +7,7 @@ import java.util.Scanner;
  * A class that fills a magic hand of 7 cards with random Card Objects
  * and then searches the array of cards for a hard-coded lucky card.
  * To be used as starting code in ICE 1
- * Modifier: [Your Name] [Your Student Number]
+* Modifier: [Damani] [991683962]
  * @author srinivsi
  */
 public class CardTrick {
